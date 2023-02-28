@@ -1,0 +1,19 @@
+{
+   "applinks": {
+       "details": [
+            {
+              "appIDs": [ "ENNPDLZCQ8.demo.dieberroa.deeplink"],
+              "components": [
+                {
+                   "/": "/tab/*",
+                   "comment": "Matches any URL with a path that starts with /tab/."
+                },
+                {
+                   "/": "/detail/*",
+                   "comment": "Matches any URL with a path that starts with /detail/"
+                }
+              ]
+            }
+        ]
+    }
+ }
